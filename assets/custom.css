@@ -1,0 +1,10 @@
+.selected, .selected:hover, .selected:focus{
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #122b40;
+}
+
+.btn {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
